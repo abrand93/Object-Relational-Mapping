@@ -13,7 +13,7 @@
    - [Questions](#questions)  
 
   ## Installation
-    
+    You will need mysql and node installed also sequlized.
     
   ## Usage
       anyone can feel free to use this code as the want. You need to have my sql installed to be able to seed the data 
